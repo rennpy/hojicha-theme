@@ -2,7 +2,8 @@
     "manifest": {
         "version": "1.0.0",
         "author": "shiggy.py",
-        "name": "Hojicha"
+        "name": "Hojicha",
+        "updater": "https:\/\/raw.githubusercontent.com\/rennpy\/hojicha-theme\/main\/Hōjicha.json"
     },
     "background": {},
     "fonts": {
